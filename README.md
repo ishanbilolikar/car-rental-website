@@ -1,2 +1,5 @@
 # Car-Rental-Website
-JSP, Servlets, MongoDB, AJAX
+Academic project developed by a team of 5.
+
+•	Designed and developed a car rental web app using Servlet, JSP, AJAX search, JavaScript with database integration of MongoDB. 
+•	Main functionality includes searching available cars, reserve car, check reservation status and cancel reservation
